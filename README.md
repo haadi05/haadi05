@@ -6,5 +6,4 @@
 
 <h2>Lets Connect</h2>
 <p><a target="_blank" href="https://twitter.com/@abdulhadi_31" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/abdulhadi-saqib-98b246307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haadi2005&show_icons=true&locale=en&layout=compact" alt="haadi2005" /></p>
+<a target="_blank" href="https://www.linkedin.com/in/abdulhadi-saqib-98b246307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
