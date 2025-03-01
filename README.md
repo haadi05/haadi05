@@ -9,11 +9,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h2>Let's Connect</h2>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/abdulhadi-saqib-98b246307" target="_blank" style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdulhadi-saqib-98b246307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/AbdulHadi_31" target="_blank" style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter logo" />
+  <a href="https://x.com/AbdulHadi_31?t=nDH4HE50nyyIHS957Dr2Uw&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+###
