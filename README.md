@@ -1,6 +1,6 @@
   <h1>AbdulHadi</h1>
 <p>Hi there! I'm Hadi, a BS Software Engineering student, web designer, and aspiring front-end developer. I'm passionate about learning, building, and collaborating on creative web projects.</p>
-<br>
+
 <h2>💻 Tech Stack</h2>
 
 <div style="display: flex; align-items: center; gap: 14px;">
@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" />
 </div>
-<br>
+
 <h2>Let's Connect</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/abdulhadi-saqib-98b246307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
