@@ -1,5 +1,5 @@
   <h1>AbdulHadi</h1>
-<p>I'm a BS Software Engineering student, web designer, and aspiring front-end developer. Learning, building, and collaborating on creative web projects. 🚀</p>
+<p>Hi there! I'm Hadi, a BS Software Engineering student, web designer, and aspiring front-end developer. I'm passionate about learning, building, and collaborating on creative web projects.</p>
 
 <h2>💻 Tech Stack</h2>
 
