@@ -11,9 +11,9 @@
 <h2>Let's Connect</h2>
 <div align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/abdulhadi-saqib-98b246307" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" style="vertical-align: middle;" />
   </a>
   <a href="https://x.com/AbdulHadi_31" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter logo" style="vertical-align: middle;" />
   </a>
 </div>
