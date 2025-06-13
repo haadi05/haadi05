@@ -15,7 +15,7 @@
 
 <div style="display: flex; align-items: center; gap: 14px;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=neovim" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=bash" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
