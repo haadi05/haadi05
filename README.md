@@ -8,7 +8,6 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" style="margin-right: 10px;" />
 </div>
