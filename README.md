@@ -1,5 +1,5 @@
   <h1>About Me</h1>
-<p>Hi! I'm Hadi, a BS SE student and Front-end Developer.<br>Interested in learning, building, and collaborating on creative projects.</p>
+<p>Hi! I'm Hadi, a BS SE student and Web Developer.<br>Interested in learning, building, and collaborating on creative projects.</p>
 
 <h2>💻 Technologies & Tools</h2>
 
