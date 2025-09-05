@@ -13,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />   
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" style="margin-right: 10px;" />
   
   
 </div>
