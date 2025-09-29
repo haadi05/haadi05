@@ -1,20 +1,12 @@
-  <h1>About Me</h1>
-<p>Hi! I'm Hadi, a BS SE student and Web Developer.<br>Interested in learning, building, and collaborating on creative projects.</p>
+## Experience
+Builder of web contraptions and freelance pipelines. Former maintainer of infinite TODOs and recovering spaghetti engineer.
 
-<h2>💻 Technologies & Tools</h2>
+## Currently Learning
+- Authentication systems (the labyrinth kind)  
+- React (with fewer rerenders, hopefully)  
+- Firebase (promises, errors, and prayers)  
 
-<div style="display: flex; align-items: center; gap: 14px;">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />   
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" style="margin-right: 10px;" />
-  
-  
-</div>
-
-
+## Tech & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,vite,firebase" />
+</p>
